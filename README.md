@@ -1,6 +1,4 @@
-p2pool-hash-scripts
+p2pool-cryptonite-hash-scripts
 ===================
 
-P2pool hash scripts 
-
-to add this mode simply run : python setup.py
+To run simply use the "python setup.py" command
